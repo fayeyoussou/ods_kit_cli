@@ -4,9 +4,9 @@ description: >
   génération de features, chiffrement sécurisé, helpers de validation, etc.
 version: 1.0.0
 
-repository: https://github.com/ton-github/ods_kit_cli
-homepage: https://github.com/ton-github/ods_kit_cli
-issue_tracker: https://github.com/ton-github/ods_kit_cli/issues
+repository: https://github.com/fayeyoussou/ods_kit_cli
+homepage: https://github.com/fayeyoussou/ods_kit_cli
+issue_tracker: https://github.com/fayeyoussou/ods_kit_cli/issues
 
 environment:
   sdk: ^3.6.1
