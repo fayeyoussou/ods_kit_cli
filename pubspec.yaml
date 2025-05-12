@@ -1,0 +1,24 @@
+name: ods_kit_cli
+description: >
+  Outils CLI et helpers modulaires pour projets Dart/Flutter incluant
+  génération de features, chiffrement sécurisé, helpers de validation, etc.
+version: 1.0.0
+
+repository: https://github.com/ton-github/ods_kit_cli
+homepage: https://github.com/ton-github/ods_kit_cli
+issue_tracker: https://github.com/ton-github/ods_kit_cli/issues
+
+environment:
+  sdk: ^3.6.1
+
+dependencies:
+  encrypt: ^5.0.3
+  fpdart: ^1.1.1
+  intl: ^0.20.2
+
+dev_dependencies:
+  lints: ^5.0.0
+  test: ^1.24.0
+
+executables:
+  flutter_feature: flutter_feature
